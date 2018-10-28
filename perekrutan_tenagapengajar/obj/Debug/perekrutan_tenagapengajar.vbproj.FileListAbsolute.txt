@@ -1,0 +1,103 @@
+F:\sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\bin\Debug\perekrutan_tenagapengajar.exe
+F:\sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\bin\Debug\perekrutan_tenagapengajar.pdb
+F:\sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\bin\Debug\perekrutan_tenagapengajar.xml
+F:\sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\ResolveAssemblyReference.cache
+F:\sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.Data_Kriteria.resources
+F:\sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.Data_Pelamar.resources
+F:\sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.Formlogin.resources
+F:\sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.laporan.resources
+F:\sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.menu_utama.resources
+F:\sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.Resources.resources
+F:\sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.proses_pembuatannilai.resources
+F:\sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.vbproj.GenerateResource.Cache
+F:\sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.exe
+F:\sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.xml
+F:\sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.pdb
+E:\Document\Sunny\Sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.exe
+E:\Document\Sunny\Sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.xml
+E:\Document\Sunny\Sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.pdb
+E:\Document\Sunny\Sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\bin\Debug\perekrutan_tenagapengajar.exe
+E:\Document\Sunny\Sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\bin\Debug\perekrutan_tenagapengajar.pdb
+E:\Document\Sunny\Sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\bin\Debug\perekrutan_tenagapengajar.xml
+E:\Document\Sunny\Sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\ResolveAssemblyReference.cache
+E:\Document\Sunny\Sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.Data_Kriteria.resources
+E:\Document\Sunny\Sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.Data_Pelamar.resources
+E:\Document\Sunny\Sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.Formlogin.resources
+E:\Document\Sunny\Sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.laporan.resources
+E:\Document\Sunny\Sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.menu_utama.resources
+E:\Document\Sunny\Sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.Resources.resources
+E:\Document\Sunny\Sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.vbproj.GenerateResource.Cache
+E:\Document\Sunny\Sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.Hasil_Perhitungan.resources
+E:\Document\Sunny\Sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.Proses_Pembuatan_Nilai.resources
+E:\Document\Sunny\Sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.bobot.resources
+F:\sunny\Sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.exe
+F:\sunny\Sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.xml
+F:\sunny\Sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.pdb
+F:\sunny\Sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\bin\Debug\perekrutan_tenagapengajar.exe
+F:\sunny\Sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\bin\Debug\perekrutan_tenagapengajar.pdb
+F:\sunny\Sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\bin\Debug\perekrutan_tenagapengajar.xml
+F:\sunny\Sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\ResolveAssemblyReference.cache
+F:\sunny\Sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.bobot.resources
+F:\sunny\Sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.Data_Kriteria.resources
+F:\sunny\Sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.Data_Pelamar.resources
+F:\sunny\Sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.Formlogin.resources
+F:\sunny\Sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.Hasil_Perhitungan.resources
+F:\sunny\Sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.laporan.resources
+F:\sunny\Sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.menu_utama.resources
+F:\sunny\Sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.Resources.resources
+F:\sunny\Sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.Proses_Pembuatan_Nilai.resources
+F:\sunny\Sunny\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.vbproj.GenerateResource.Cache
+F:\sunny\Sunny\Sunny\selesai\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.exe
+F:\sunny\Sunny\Sunny\selesai\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.xml
+F:\sunny\Sunny\Sunny\selesai\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.pdb
+E:\Document\Skripsi (Suni)\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.exe
+E:\Document\Skripsi (Suni)\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.xml
+E:\Document\Skripsi (Suni)\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.pdb
+E:\Document\Skripsi (Suni)\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\bin\Debug\perekrutan_tenagapengajar.exe
+E:\Document\Skripsi (Suni)\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\bin\Debug\perekrutan_tenagapengajar.pdb
+E:\Document\Skripsi (Suni)\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\bin\Debug\perekrutan_tenagapengajar.xml
+E:\Document\Skripsi (Suni)\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\ResolveAssemblyReference.cache
+E:\Document\Skripsi (Suni)\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.bobot.resources
+E:\Document\Skripsi (Suni)\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.Data_Kriteria.resources
+E:\Document\Skripsi (Suni)\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.Data_Pelamar.resources
+E:\Document\Skripsi (Suni)\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.Formlogin.resources
+E:\Document\Skripsi (Suni)\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.Hasil_Perhitungan.resources
+E:\Document\Skripsi (Suni)\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.laporan.resources
+E:\Document\Skripsi (Suni)\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.menu_utama.resources
+E:\Document\Skripsi (Suni)\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.Resources.resources
+E:\Document\Skripsi (Suni)\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.Proses_Pembuatan_Nilai.resources
+E:\Document\Skripsi (Suni)\programsunny\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.vbproj.GenerateResource.Cache
+E:\Document\Skripsi (Suni)\programsunny.fix\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.exe
+E:\Document\Skripsi (Suni)\programsunny.fix\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.xml
+E:\Document\Skripsi (Suni)\programsunny.fix\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.pdb
+E:\Document\Skripsi (Suni)\programsunny.fix\perekrutan_tenagapengajar\perekrutan_tenagapengajar\bin\Debug\perekrutan_tenagapengajar.exe
+E:\Document\Skripsi (Suni)\programsunny.fix\perekrutan_tenagapengajar\perekrutan_tenagapengajar\bin\Debug\perekrutan_tenagapengajar.pdb
+E:\Document\Skripsi (Suni)\programsunny.fix\perekrutan_tenagapengajar\perekrutan_tenagapengajar\bin\Debug\perekrutan_tenagapengajar.xml
+E:\Document\Skripsi (Suni)\programsunny.fix\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\ResolveAssemblyReference.cache
+E:\Document\Skripsi (Suni)\programsunny.fix\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.bobot.resources
+E:\Document\Skripsi (Suni)\programsunny.fix\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.Data_Kriteria.resources
+E:\Document\Skripsi (Suni)\programsunny.fix\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.Data_Pelamar.resources
+E:\Document\Skripsi (Suni)\programsunny.fix\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.Formlogin.resources
+E:\Document\Skripsi (Suni)\programsunny.fix\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.laporan.resources
+E:\Document\Skripsi (Suni)\programsunny.fix\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.menu_utama.resources
+E:\Document\Skripsi (Suni)\programsunny.fix\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.Resources.resources
+E:\Document\Skripsi (Suni)\programsunny.fix\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.Proses_Pembuatan_Nilai.resources
+E:\Document\Skripsi (Suni)\programsunny.fix\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.vbproj.GenerateResource.Cache
+E:\Document\Skripsi (Suni)\programsunny.fix\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.Laporan_Perhitungan.resources
+E:\Document\Skripsi (Suni)\programsunny (FIX)\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.exe
+E:\Document\Skripsi (Suni)\programsunny (FIX)\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.xml
+E:\Document\Skripsi (Suni)\programsunny (FIX)\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.pdb
+E:\Document\Skripsi (Suni)\programsunny (FIX)\perekrutan_tenagapengajar\perekrutan_tenagapengajar\bin\Debug\perekrutan_tenagapengajar.exe
+E:\Document\Skripsi (Suni)\programsunny (FIX)\perekrutan_tenagapengajar\perekrutan_tenagapengajar\bin\Debug\perekrutan_tenagapengajar.pdb
+E:\Document\Skripsi (Suni)\programsunny (FIX)\perekrutan_tenagapengajar\perekrutan_tenagapengajar\bin\Debug\perekrutan_tenagapengajar.xml
+E:\Document\Skripsi (Suni)\programsunny (FIX)\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\ResolveAssemblyReference.cache
+E:\Document\Skripsi (Suni)\programsunny (FIX)\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.bobot.resources
+E:\Document\Skripsi (Suni)\programsunny (FIX)\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.Data_Kriteria.resources
+E:\Document\Skripsi (Suni)\programsunny (FIX)\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.Data_Pelamar.resources
+E:\Document\Skripsi (Suni)\programsunny (FIX)\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.Formlogin.resources
+E:\Document\Skripsi (Suni)\programsunny (FIX)\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.Laporan_Perhitungan.resources
+E:\Document\Skripsi (Suni)\programsunny (FIX)\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.laporan.resources
+E:\Document\Skripsi (Suni)\programsunny (FIX)\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.menu_utama.resources
+E:\Document\Skripsi (Suni)\programsunny (FIX)\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.Resources.resources
+E:\Document\Skripsi (Suni)\programsunny (FIX)\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.Proses_Pembuatan_Nilai.resources
+E:\Document\Skripsi (Suni)\programsunny (FIX)\perekrutan_tenagapengajar\perekrutan_tenagapengajar\obj\Debug\perekrutan_tenagapengajar.vbproj.GenerateResource.Cache
